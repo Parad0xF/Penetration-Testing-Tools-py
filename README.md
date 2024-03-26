@@ -43,3 +43,8 @@ The `tcp_server.py` script is a server implementation for TCP (Transmission Cont
 ## udp_client.py
 
 The `udp_client.py` script is a client implementation for UDP (User Datagram Protocol) communication. It allows you to send UDP packets to a specific server and receive responses.
+
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
