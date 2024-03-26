@@ -26,12 +26,20 @@ Penetration testing, also known as ethical hacking, involves conducting approved
 
 ---
 
-
-
-
 ## Netcat.py
 
 The `netcat.py` script is a powerful tool for network exploration and security auditing. Please note that it is specifically designed for Linux operating systems.
 
 Before using `netcat.py`, ensure that you are in a Linux environment.
 
+## tcp_client.py
+
+The `tcp_client.py` script is a client implementation for TCP (Transmission Control Protocol) communication. It allows you to establish a connection with a TCP server and send/receive data over the network.
+
+## tcp_server.py
+
+The `tcp_server.py` script is a server implementation for TCP (Transmission Control Protocol) communication. It listens for incoming connections from TCP clients and handles their requests.
+
+## udp_client.py
+
+The `udp_client.py` script is a client implementation for UDP (User Datagram Protocol) communication. It allows you to send UDP packets to a specific server and receive responses.
